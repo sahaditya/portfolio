@@ -14,7 +14,7 @@ export const LayoutContainer = style.div`
 `;
 
 export const Left = style.div`
-    width: 30%;
+    width: 20%;
     height: 100%;
     background-color: #5A5D6F;
     @media (max-width: 800px){
@@ -23,7 +23,7 @@ export const Left = style.div`
 `;
 
 export const Right = style.div`
-    width: 70%;
+    width: 80%;
     height: 100%;
     background-color: #226C73;
     @media (max-width: 800px){
